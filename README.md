@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rbxo8675/rbxo8675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,13 +22,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbxo8675" alt="rbxo8675" /></a> </p>
 
-- 🔭 I’m currently working on [mobileAppProgramming](Link)
+- 🔭 I’m currently working on [mobileAppProgramming](https://github.com/rbxo8675/mobileAppPrograming)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [[프로필링크]]([프로필링크])
+- 👨‍💻 All of my projects are available at [github](https://github.com/rbxo8675?tab=repositories)
 
-- 📝 I regularly write articles on [[티 스토리 링크]]([티 스토리 링크])
+- 📝 I regularly write articles on [티 스토리 링크](https://rbxo8675.tistory.com/)
 
 - 💬 Ask me about **Spring boot**
 
@@ -40,8 +38,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/링크드인" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="링크드인" height="30" width="40" /></a>
-<a href="https://instagram.com/인스타그램" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="인스타그램" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/링크드인](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="링크드인" height="30" width="40" /></a>
+<a href="[https://instagram.com/인스타그램](https://www.instagram.com/nah._eatuyk/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="인스타그램" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
