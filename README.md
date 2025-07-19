@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="링크드인" height="30" width="40" /></a>
+<a href = "https://www.linkedin.com/in/haram-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="링크드인" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nah._eatuyk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="인스타그램" height="30" width="40" /></a>
 </p>
 
