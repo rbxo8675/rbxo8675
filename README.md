@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **rbxo8675@gmail.com**
 
-- ⚡ Fun fact **highly curious, inquisitive, and experimental person.**
+- ⚡ Fun fact : **highly curious, inquisitive, and experimental person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
