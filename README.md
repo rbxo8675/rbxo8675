@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/rbxo8675?tab=repositories)
 
-- 📝 I regularly write articles on [티 스토리 링크](https://rbxo8675.tistory.com/)
+- 📝 I regularly write articles on [T story](https://rbxo8675.tistory.com/)
 
 - 💬 Ask me about **Spring boot**
 
